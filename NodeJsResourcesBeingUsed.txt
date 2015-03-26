@@ -1,0 +1,4 @@
+Nodejs core
+express
+mongoose
+fs
